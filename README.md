@@ -1,5 +1,5 @@
 # Advanced-SQL-HR-Dataset
-This project is about HR dataset for a company. This Dataset is from the HR Department for all Employees of the company even the ones that left(Attrition).<br> The data collection started from 2012 until 2022. Our quest was to build a database for this company that can be used for the following business needs.
+This project is about HR dataset for a company. <br> This Dataset is from the HR Department for all Employees of the company even the ones that left(Attrition). The data collection started from 2012 until 2022. Our quest was to build a database for this company that can be used for the following business needs.
 
 1. There are plenty of details to have about the Employee: Their ID, Name, Gender, Age, Department in which they work, Their hiredate, their Salary, Job role, Whether they work overtime or not, whether they travel for business or not, and whether they are still in the company or left. 
 2. We also need to keep the educational background of each employee, their educational level and the field of said education. 
