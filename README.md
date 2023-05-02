@@ -11,5 +11,5 @@ This project is about HR dataset for a company. <br> This Dataset is from the HR
 [Shrouk Fouad](https://github.com/shrouk-fouad) &
 [Kawther Ahmed](https://github.com/Kawther-Ahmed) &
 [Maryam Monsef](https://github.com/maryammonsef5) &
-[Mohamed Zaidan](https://github.com/Mohamedzaidan) 
+[Mohamed Zaidan](https://github.com/Mohamedzaidan) &
 [Amr Soliman](https://github.com/AmroSuliman)
