@@ -18,4 +18,4 @@ This project is about HR dataset for a company. <br> This Dataset is from the HR
 
 ## Step 1
 WE choosed dataset with wide range of columns and rows to satisfy the needs of the project of developing our database and apply wide range of queries and applications on it. <br>
-<img  src = "https://github.com/shrouk-fouad/Advanced-SQL-HR-Dataset/blob/main/dataset%20image.png" width= 500 height = 300>
+<img  src = "https://github.com/shrouk-fouad/Advanced-SQL-HR-Dataset/blob/main/dataset%20image.png">
