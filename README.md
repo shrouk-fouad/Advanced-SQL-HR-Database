@@ -27,7 +27,7 @@ WE created ERD of our database. <br>
 
 
 ## Step 3
-WE created Schema from ERD. <br>
+WE turned ERD into schema. <br>
 <img  src = "https://github.com/shrouk-fouad/Advanced-SQL-HR-Dataset/blob/main/Schema.png"><br>
 
 
