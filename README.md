@@ -33,8 +33,10 @@ WE created Schema from ERD. <br>
 
 ## Step 4
 We created database 'HR' on Sql Server  <br>
-<img  src = "https://github.com/shrouk-fouad/Advanced-SQL-HR-Dataset/blob/main/erd_sql.PNG"><br>
-then we imported CSV into tables of database <br>
+<img  src = "https://github.com/shrouk-fouad/Advanced-SQL-HR-Dataset/blob/main/erd_sql.PNG"><br><br>
+
+then we imported CSV into tables of database <br><br>
+
 <img  src = "https://github.com/shrouk-fouad/Advanced-SQL-HR-Dataset/blob/main/Import%20csv%20to%20sql%20server.PNG"><br>
 
 
