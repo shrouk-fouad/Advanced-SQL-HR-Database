@@ -8,8 +8,14 @@ This project is about HR dataset for a company. <br> This Dataset is from the HR
 5. Annually, each employee gets to have a review with the HR and their direct manager, during this review the employee fills out a survey where they give a satisfaction rate 1-5 for how satisfied they are with their job, the environment, their relationships with colleagues and their work-life balance. They also give themselves a rate 1-5 for how they feel their performance was in the previous year. While their managers also give a rating 1-5 for the employees performance in the previous year. 
 
 # Team of the project
-[Shrouk Fouad](https://github.com/shrouk-fouad) &
+[Me](https://github.com/shrouk-fouad) &
 [Kawther Ahmed](https://github.com/Kawther-Ahmed) &
 [Maryam Monsef](https://github.com/maryammonsef5) &
 [Mohamed Zaidan](https://github.com/Mohamedzaidan) &
 [Amr Soliman](https://github.com/AmroSuliman)
+
+# Project Steps
+
+## Step 1
+WE choosed dataset with wide range of columns and rows to satisfy the needs of the project of developing our database and apply wide range of queries and applications on it. <br>
+<img  src = "">
