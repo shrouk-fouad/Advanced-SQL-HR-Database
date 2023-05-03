@@ -29,3 +29,12 @@ WE created ERD of our database. <br>
 ## Step 3
 WE created Schema from ERD. <br>
 <img  src = "https://github.com/shrouk-fouad/Advanced-SQL-HR-Dataset/blob/main/Schema.png">
+
+
+## Step 4
+We created database 'HR' on Sql Server then we imported CSV into tables of database. <br>
+<img  src = "https://github.com/shrouk-fouad/Advanced-SQL-HR-Dataset/blob/main/Import%20csv%20to%20sql%20server.PNG">
+<img  src = "https://github.com/shrouk-fouad/Advanced-SQL-HR-Dataset/blob/main/erd_sql.PNG">
+
+
+
