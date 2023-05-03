@@ -37,7 +37,7 @@ We created database 'HR' on Sql Server.  <br>
 
 
 ## Step 5
-We imported CSV into tables of database. <br><br>
+We imported CSV into the tables of database. <br><br>
 
 <img  src = "https://github.com/shrouk-fouad/Advanced-SQL-HR-Dataset/blob/main/Import%20csv%20to%20sql%20server.PNG"><br>
 
