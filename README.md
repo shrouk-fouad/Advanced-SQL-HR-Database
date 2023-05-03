@@ -18,23 +18,24 @@ This project is about HR dataset for a company. <br> This Dataset is from the HR
 
 ## Step 1
 WE choosed dataset with wide range of columns and rows to satisfy the needs of the project of developing our database and apply wide range of queries and applications on it. <br>
-<img  src = "https://github.com/shrouk-fouad/Advanced-SQL-HR-Dataset/blob/main/dataset%20image.png">
+<img  src = "https://github.com/shrouk-fouad/Advanced-SQL-HR-Dataset/blob/main/dataset%20image.png"><br>
 
 
 ## Step 2
 WE created ERD of our database. <br>
-<img  src = "https://github.com/shrouk-fouad/Advanced-SQL-HR-Dataset/blob/main/ERD%20(2).png">
+<img  src = "https://github.com/shrouk-fouad/Advanced-SQL-HR-Dataset/blob/main/ERD%20(2).png"><br>
 
 
 ## Step 3
 WE created Schema from ERD. <br>
-<img  src = "https://github.com/shrouk-fouad/Advanced-SQL-HR-Dataset/blob/main/Schema.png">
+<img  src = "https://github.com/shrouk-fouad/Advanced-SQL-HR-Dataset/blob/main/Schema.png"><br>
 
 
 ## Step 4
-We created database 'HR' on Sql Server then we imported CSV into tables of database. <br>
-<img  src = "https://github.com/shrouk-fouad/Advanced-SQL-HR-Dataset/blob/main/Import%20csv%20to%20sql%20server.PNG">
-<img  src = "https://github.com/shrouk-fouad/Advanced-SQL-HR-Dataset/blob/main/erd_sql.PNG">
+We created database 'HR' on Sql Server  <br>
+<img  src = "https://github.com/shrouk-fouad/Advanced-SQL-HR-Dataset/blob/main/erd_sql.PNG"><br>
+then we imported CSV into tables of database <br>
+<img  src = "https://github.com/shrouk-fouad/Advanced-SQL-HR-Dataset/blob/main/Import%20csv%20to%20sql%20server.PNG"><br>
 
 
 
