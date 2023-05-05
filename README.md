@@ -17,7 +17,7 @@ This project is about HR dataset for a company. <br> This Dataset is from the HR
 # Project Steps
 
 ## Step 1
-WE choosed dataset with wide range of columns and rows to satisfy the criteria of the project of developing a database and apply wide range of queries and applications on it including views, subqueries, functions, stored procedures, cursors ..etc . <br>
+We chose dataset with wide range of columns and rows to satisfy the criteria of the project of developing a database and apply wide range of queries and applications on it including views, subqueries, functions, stored procedures, cursors ..etc . <br>
 <img  src = "https://github.com/shrouk-fouad/Advanced-SQL-HR-Dataset/blob/main/dataset%20image.png"><br>
 
 
